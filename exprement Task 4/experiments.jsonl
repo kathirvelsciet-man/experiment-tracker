@@ -1,0 +1,6 @@
+{"run_id": "run_1", "timestamp": "2026-02-26 17:36:27", "params": {"learning_rate": 0.01, "epochs": 10}, "metrics": {"accuracy": 0.82, "loss": 0.4}}
+{"run_id": "run_2", "timestamp": "2026-02-26 17:36:27", "params": {"learning_rate": 0.001, "epochs": 20}, "metrics": {"accuracy": 0.9, "loss": 0.2}}
+{"run_id": "run_3", "timestamp": "2026-02-26 17:36:27", "params": {"learning_rate": 0.1, "epochs": 5}, "metrics": {"accuracy": 0.75, "loss": 0.5}}
+{"run_id": "run_1", "timestamp": "2026-02-26 17:41:27", "params": {"learning_rate": 0.01, "epochs": 10}, "metrics": {"accuracy": 0.82, "loss": 0.4}}
+{"run_id": "run_2", "timestamp": "2026-02-26 17:41:27", "params": {"learning_rate": 0.001, "epochs": 20}, "metrics": {"accuracy": 0.9, "loss": 0.2}}
+{"run_id": "run_3", "timestamp": "2026-02-26 17:41:27", "params": {"learning_rate": 0.1, "epochs": 5}, "metrics": {"accuracy": 0.75, "loss": 0.5}}
